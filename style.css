@@ -140,7 +140,7 @@ section {
       transparent 55%
     ),
     linear-gradient(180deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.35)),
-    url("images/image000.webp");
+    url("images/banner.webp");
   background-size: cover;
   background-position: center;
   display: flex;
